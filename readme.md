@@ -1,0 +1,2 @@
+###说明
+MulChooseDemo中SingleChooseTableVC是一个可以进行单选的TableView
